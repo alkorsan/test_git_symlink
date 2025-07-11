@@ -1,1 +1,1 @@
-"# test_git_symlink" 
+# test_git_symlink 
